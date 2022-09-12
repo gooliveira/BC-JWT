@@ -1,0 +1,17 @@
+https://login.salesforce.com/services/oauth2/authorize?
+client_id=3MVG9riCAn8HHkYWtevnBfMK3hQFpz76r1UBJovR9oGCCu2UZdu6O.MZsS6n4V5DXfPTCwqzXaqyXf6x.ZZtn&
+redirect_uri=https://creative-unicorn-660l26-dev-ed.my.salesforce.com/oauth2/callback&
+response_type=code
+
+Header:
+
+{"alg":"RS256"}
+
+Payload:
+
+{
+"iss":"3MVG9AJuBE3rTYDiTsanF1POKZJ5CqsRNaEgiyVUosRbNCQgmyEE6m3fbbuWRz_J.B9mNmIZkcmfEVxQyeyNc",
+"sub": "fslfibr_integration@fibrasil.com.dev",
+"aud": "https://test.salesforce.com",
+"exp": "1662707655"
+}
